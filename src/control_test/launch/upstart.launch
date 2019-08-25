@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="control_test" name="Joy2Husky" type="joy2control.py">
+  </node>
+
+</launch>
